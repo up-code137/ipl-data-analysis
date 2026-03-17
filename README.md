@@ -1,5 +1,5 @@
 # IPL Data Analysis Project
-
+Dataset Source: Kaggle IPL Dataset
 ## 📌 Overview
 This project analyzes IPL match data to uncover insights about team performance, player statistics, and match outcomes.
 
@@ -9,7 +9,14 @@ This project analyzes IPL match data to uncover insights about team performance,
 - Pandas
 - Matplotlib
 - Seaborn
-
+  
+## 💪Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Insights Generation
+- Pandas Manipulation
+  
 ## 📊 Analysis Done
 - Team performance analysis
 - Toss decision analysis
@@ -34,5 +41,12 @@ This project analyzes IPL match data to uncover insights about team performance,
 - ipl_analysis.ipynb  
 - images/  
 
+## ✌️How to Run
+1. Clone the repository
+2. Install required libraries:
+   pip install pandas matplotlib seaborn
+3. Open notebook and run cells
+
 ## 🚀 Conclusion
 This project demonstrates how data analysis can be used to extract meaningful insights from sports data.
+#This project helped strengthen my skills in data analysis, visualization, and storytelling using Python.
